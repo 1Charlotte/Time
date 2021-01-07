@@ -1,5 +1,5 @@
 # Time
-# 对于时序数据分类
+
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import StratifiedKFold, KFold
